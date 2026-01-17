@@ -1,0 +1,5 @@
+Ideas
+
+- Study HTML
+- Study CSS
+- Study JavaScript
